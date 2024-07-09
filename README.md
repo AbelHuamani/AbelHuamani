@@ -10,11 +10,11 @@
 
 </br>
 
-- 🔧 I’m currently working on ... Gastro Connect.
-- 💡 I’m curious about ... Blockchain and Crypto Currency.
-- 📖 I’m currently learning ... Flask.
-- ❄️ I’m looking to collaborate on ... Open Source Projects.
-- 📫 How to reach me ... abel.huamani@vallegrande.edu.pe.
+- 🔧Actualmente estoy realizando un proyecto en equipo... PRS.
+- 💡 Tengo curiosidad por... Blockchain y criptomonedas.
+- 📖 Actualmente estoy aprendiendo... Spring Boot y Angular.
+- ❄️ Estoy buscando colaborar en... Proyectos de código abierto.
+- 📫 Cómo llegar a mí... abel.huamani@vallegrande.edu.pe .
 
 <hr>
 
