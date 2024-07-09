@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+I'm+Abel;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
 
-<p>- <i>I'm a software developer with good problem-solving skills. I perform well in a team and am passionate about coding. I focus on writing good quality code and regularly write technical content and articles for various popular tech sites.</i></p>
+<p>- <i>I am a passionate and versatile software developer with a strong ability to solve complex problems. I enjoy collaborating in dynamic teams, where I can contribute my technical and creative skills to achieve common goals. My enthusiasm for programming drives me to constantly learn and adapt to new technologies in the sector. I seek not only to meet project requirements, but also to innovate and add value in every line of code I write.</i></p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
