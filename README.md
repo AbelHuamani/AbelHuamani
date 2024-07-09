@@ -10,11 +10,11 @@
 
 </br>
 
-- 🔧Actualmente estoy realizando un proyecto en equipo... PRS.
-- 💡 Tengo curiosidad por... Blockchain y criptomonedas.
-- 📖 Actualmente estoy aprendiendo... Spring Boot y Angular.
-- ❄️ Estoy buscando colaborar en... Proyectos de código abierto.
-- 📫 Cómo llegar a mí... abel.huamani@vallegrande.edu.pe .
+- 🔧I'm currently working on a team project... PRS.
+- 💡 I'm curious about... Blockchain and cryptocurrencies.
+- 📖 I'm currently learning... Spring Boot and Angular.
+- ❄️ I'm looking to collaborate on... Open source projects.
+- 📫 How to reach me... abel.huamani@vallegrande.edu.pe .
 
 <hr>
 
