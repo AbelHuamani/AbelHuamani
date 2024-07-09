@@ -14,7 +14,7 @@
 - 💡 I’m curious about ... Blockchain and Crypto Currency.
 - 📖 I’m currently learning ... Flask.
 - ❄️ I’m looking to collaborate on ... Open Source Projects.
-- 📫 How to reach me ... abelhuamani@example.com (cambia este correo por el tuyo real).
+- 📫 How to reach me ... abel.huamani@vallegrande.edu.pe.
 
 <hr>
 
