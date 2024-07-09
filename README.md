@@ -74,6 +74,30 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
 
+</td>
+    <td>
+  
+## 📄📜 Stats
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AbelHuamani&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ </br>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbelHuamani"/>
+ </br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelHuamani&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+</p>
+     
+  </td>
+ </tr>
+</table>
+
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AbelHuamani}/count.svg" /></p> 
+<br>
+</div>
+
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
